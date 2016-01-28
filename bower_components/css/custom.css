@@ -18,16 +18,59 @@
     color: #DCDDD8
 }
 
-.panel-footer-color{
+.panel-footer-props{
     background-color: #364B5E;
 }
 
 .overwrite-container-margin{
-    width:80%;
+    width:100%;
+    padding:0;
 }
 
+.overwrite-container-margin-header{
+    width:90%;
+    padding:0;
+}
+.overwrite-container-margin-mainbody{
+    width:100%;
+}
 
+.chevron-down{
+    color: #DCDDD8;
+    font-size: 2em;
+}
 
+.main-body-props{
+    background-color:#DCDDD8;
+    height:80vh;
+}
+
+.panel-header-props{
+    height:15vh;
+}
+
+.panel-footer-props{
+    height:5vh;
+}
+
+.responsive-logo{
+    height:8vh;
+    width: 8vw;
+}
+
+.top-buffer{
+    margin-top:3.5vh;
+}
+
+.body-text{
+    color: #DCDDD8;
+    font-sizegit s:2em;
+}
+
+.vertical-line{
+    border-left: 2px solid #364B5E;
+    height:80vh;
+}
 /*helper classes to remember the color palette for the website*/
 .banner-color{
     color: #364B5E;
@@ -40,3 +83,6 @@
 .heading-color{
     color: #C63F3E
 }
+
+
+
