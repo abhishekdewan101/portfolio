@@ -1,0 +1,42 @@
+.vertical-center{
+    min-height: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+}
+
+
+
+/*over writing some of the default css to help with styling*/
+.panel-default{
+    background-color: #364B5E;
+}
+
+.panel-default > .panel-heading{
+    background-color: #364B5E;
+    color: #DCDDD8
+}
+
+.panel-footer-color{
+    background-color: #364B5E;
+}
+
+.overwrite-container-margin{
+    width:80%;
+}
+
+
+
+/*helper classes to remember the color palette for the website*/
+.banner-color{
+    color: #364B5E;
+}
+
+.text-color{
+    color: #DCDDD8;
+}
+
+.heading-color{
+    color: #C63F3E
+}
