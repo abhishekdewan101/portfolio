@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Material Design One Page HTML Template</h1>
 <p>MD One page template is fully responsive and free to use. This HTML template is based on <a href="http://materializecss.com/">Materialize</a>, a CSS Framework based on Material Design.</p>
 <a href="http://joashpereira.com/templates/material_one_pager/">View Demo</a>
@@ -17,3 +18,8 @@ HTML, CSS, JS
 
 <h2>License</h2>
 Material Design One Page HTML Template is licensed under the <a href="http://sam.zoy.org/wtfpl/">WTFPL license</a>.
+=======
+This is my portfolio website version 2
+
+Testing git out
+>>>>>>> c6ac11b39437befb05ee4ed7e034a24e3f16d5be
